@@ -1,0 +1,4 @@
+[{"eid":"123","fname":"alex","lname":"valley","salary":"$1234","Role":"SDE","doj":"2021-04-22","dob":"1986-06-10"},
+ {"eid":"124","fname":"shrey","lname":"agathwar","salary":"$2345","Role":"HR","doj":"2019-05-15","dob":"1975-09-13"},
+ {"eid":"125","fname":"viral","lname":"shant","salary":"$3456","Role":"JDE","doj":"2018-03-05","dob":"1984-05-23"},
+ {"eid":"126","fname":"candy","lname":"fest","salary":"$4567","Role":"Manager","doj":"2020-09-23","dob":"1985-08-31"}]
