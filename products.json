@@ -1,0 +1,29 @@
+[{
+		"item": "iPhone",
+		"stock": 3,
+		"original": 399.99
+	},
+	{
+		"item": "Samsung",
+		"stock": 1,
+		"original": 499.99,
+		"discount": 0.1
+	},
+	{
+		"item": "Laptop",
+		"stock": 4,
+		"original": 299.99
+	},
+	{
+		"item": "TV",
+		"stock": 1,
+		"original": 299.99,
+		"discount": 0.8
+	},
+	{
+		"item": "Nokia",
+		"stock": 2,
+		"original": 199.99,
+		"discount": 0.65
+	}
+]
