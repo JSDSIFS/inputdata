@@ -1,0 +1,25 @@
+[{
+		"owner_type": "normal",
+		"vehicle_type": "car"
+	},
+	{
+		"owner_type": "VIP",
+		"vehicle_type": "car"
+	},
+	{
+		"owner_type": "normal",
+		"vehicle_type": "bus"
+	},
+	{
+		"owner_type": "normal",
+		"vehicle_type": "bike"
+	},
+	{
+		"owner_type": "VIP",
+		"vehicle_type": "bus"
+	},
+	{
+		"owner_type": "normal",
+		"vehicle_type": "truck"
+	}
+]
